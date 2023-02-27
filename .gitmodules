@@ -1,0 +1,45 @@
+[submodule "bzip2"]
+	path = bzip2
+	url = ../bzip2
+[submodule "cairo"]
+	path = cairo
+	url = ../cairo
+[submodule "clientchannels"]
+	path = clientchannels
+	url = ../clientchannels
+[submodule "expat"]
+	path = expat
+	url = ../expat
+[submodule "freeimage"]
+	path = freeimage
+	url = ../freeimage
+[submodule "freetype"]
+	path = freetype
+	url = ../freetype
+[submodule "iconv"]
+	path = iconv
+	url = ../iconv
+[submodule "idn"]
+	path = idn
+	url = ../idn
+[submodule "jpeg"]
+	path = jpeg
+	url = ../jpeg
+[submodule "jxr"]
+	path = jxr
+	url = ../jxr
+[submodule "libarchive"]
+	path = libarchive
+	url = ../libarchive
+[submodule "pcre"]
+	path = pcre
+	url = ../pcre
+[submodule "strophe"]
+	path = strophe
+	url = ../strophe
+[submodule "zlib"]
+	path = zlib
+	url = ../zlib
+[submodule "zstd"]
+	path = zstd
+	url = ../zstd
